@@ -1,5 +1,7 @@
 body
 {
+
+    background: rgba(150, 133, 133, 0.699);
     color: rgba(50, 174, 231, 0.781);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -9,8 +11,8 @@ body
 }
 #cabecera
 {
-    background: rgb(58, 3, 3);
-    box-shadow: 0px 2px 20px 0px rgba(50, 174, 231, 0.781);
+    background: rgb(49, 49, 49);
+    box-shadow: 0px 2px 20px 0px rgba(67, 219, 224, 0.801);
     color: whitesmoke;
     font-weight: bold;
     margin: 0;
@@ -33,6 +35,8 @@ body
     border-left: 6px solid rgba(15, 252, 7, 0.76);
     border-right: 6px solid rgba(190, 10, 10, 0.726);
     margin: 0 auto;
+    background: whitesmoke;
+
 }
 #conteiner h1
 {
@@ -46,8 +50,8 @@ body
 #footer
 {
     color: aliceblue;
-    background: rebeccapurple;
+    background: rgb(65, 65, 65);
     text-align: center;
-    
+    box-shadow:0PX 0PX 20PX 5PX rebeccapurple;
     padding: 0.5em;
 }
