@@ -7,6 +7,23 @@ body
     margin: 0px;
     padding: 0px;
 }
+#cabecera
+{
+    background: rgb(58, 3, 3);
+    box-shadow: 0px 2px 20px 0px rgba(50, 174, 231, 0.781);
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 3em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #conteiner
 {
     width: 60%;
